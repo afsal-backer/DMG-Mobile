@@ -30,10 +30,10 @@ Place your android app .apk file in the apps folder. Make sure the same app name
 
 In the .env file, fill in the necessary environment variables:
 
-BROWSERSTACK_USERNAME=
-BROWSERSTACK_ACCESS_KEY=
-MAIL_USERNAME=
-MAIL_PASSWORD=
+BROWSERSTACK_USERNAME,
+BROWSERSTACK_ACCESS_KEY,
+MAIL_USERNAME,
+MAIL_PASSWORD
 
 ### Prepare Android Device or Emulator
 
