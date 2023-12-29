@@ -47,3 +47,11 @@ npm run android
 
 Based on how you configured the wdio.conf.ts file (to run on local or on BrowserStack), this command will start the Appium server and run the tests on BrowserStack or the connected Android device/emulator.
 Default setting is to run on BrowserStack.
+
+## Reporting
+
+This project uses Allure reporting and BrowserStack TestObservability.
+
+To generate allure report, after running the test, run the command: allure serve allure-results
+
+To view TestObservability report, after execution, log into TestObservability and check the build runs.
