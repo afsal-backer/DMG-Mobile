@@ -1,6 +1,7 @@
 # DMG Mobile Testing
 
-Overview
+## Overview
+
 DMG Mobile Testing is an automated testing suite for the DMG Mobile application. It utilizes WebdriverIO with Appium, Cucumber and TypeScript. This project can run on BrowserStack Automate and on local.
 
 ## Prerequisites
